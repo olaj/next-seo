@@ -320,6 +320,7 @@ export interface LinkTag {
   integrity?: string;
   keyOverride?: string;
   color?: string;
+  title?: string;
 }
 
 export interface BaseMetaTag {
